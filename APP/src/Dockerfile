@@ -2,7 +2,7 @@
 FROM python:3.9-alpine
 
 # Set the working directory in the container
-WORKDIR /Users/muannam/desktop/repos/DEMO_CI_CD_1
+WORKDIR C:\Users\shrvn\OneDrive\Documents\CI-CD demo
 
 
 # Copy the required files to the container
