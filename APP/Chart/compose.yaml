@@ -1,0 +1,7 @@
+app:
+  image: app:1.0
+  container_name:app
+  hostname:app
+  ports:
+    -"8080"
+  restart: unless-stopped
